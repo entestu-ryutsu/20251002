@@ -5,3 +5,5 @@ miwa_test
 takayama test
 
 hosokawa test2
+
+hosokawa test3
